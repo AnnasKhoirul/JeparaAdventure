@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Jepara Adventure</string>
+    <string name="Nama">Nama</string>
+    <string name="Detail">Detail</string>
+    <string name="share">Share</string>
+    <string name="btn_detail">Detail</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="about">Aplikasi ini dibuat untuk memudahkan para wisatawan yang ingin berkunjung dan melihat apa saja yang ada di kota Jepara. Dengan adanya aplikasi
+    ini, orang dapat dengan mudah mencari informasi yang tidak diketahui para wisatawan. Aplikasi ini berisi tentang informasi budaya, wisata, kuliner, religi yang ada
+    di Jepara. Jika ingin mengunjungi tempat wisata ada fitur lokasi petunjuk arah</string>
+</resources>
